@@ -39,6 +39,6 @@ def countlines(name):
     return lines
 
 if __name__ == '__main__':
-  test()
+ # test()
   fc,files = getfilesCount()
   print "Total number of files and lines in the files are {} {}. ".format(files,fc)
